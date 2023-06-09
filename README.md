@@ -20,6 +20,7 @@ Customized NLP Solutions: projects, analysis, source code, model training and te
 # 图文分析同步公众号：
 
 美熙科技说(ID: meixi_tech)
+
 <img src="https://github.com/chensaics/NLPx/blob/master/pics/%E7%BE%8E%E7%86%99QR.png" alt="公众号QR"/><br/>
 
 
