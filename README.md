@@ -20,11 +20,10 @@ Customized NLP Solutions: projects, analysis, source code, model training and te
 # 图文分析同步公众号：
 
 美熙科技说(ID: meixi_tech)
+<img src="https://github.com/仓库名/项目名/blob/master/m/20200424230936851.png" width="200" height="200" alt="公众号QR"/><br/>
 
-![Alt text](pics/%E7%BE%8E%E7%86%99QR.png)
 
 NLP技术交流群（永久QR）
 
-
-![Alt text](pics/NLP%E6%8A%80%E6%9C%AF%E7%BE%A4%E6%B0%B8%E4%B9%85QR.png)
+<img src="https://github.com/chensaics/NLPx/blob/master/pics/NLP%E6%8A%80%E6%9C%AF%E7%BE%A4%E6%B0%B8%E4%B9%85QR.png" width="200" height="200" alt="公众号QR"/><br/>
 
